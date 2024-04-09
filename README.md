@@ -45,13 +45,11 @@
 </div>
 
 
-
-## 
-
-
 <div align="top">
   <img align="right" alt="Jaybonnie-avatar" heigth="100" width="100" src="https://github.com/jhessycavieiras/jhessycavieiras/blob/main/WhatsApp%20Image%202024-01-31%20at%2017.41.39%20(1).png?raw=true">
 </div>
+
+<br><br>
 
 ## 📚 Technologies I'm interested in learning:
 
